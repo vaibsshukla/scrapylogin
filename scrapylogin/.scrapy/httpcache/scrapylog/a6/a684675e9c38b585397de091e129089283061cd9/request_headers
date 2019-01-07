@@ -1,0 +1,7 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.5.1 (+https://scrapy.org)
+Referer: https://github.com/login
+Cookie: _gh_sess=c0gwcTl0QlVsWmJPMWpsVDVXWFlWSCthS0RJSVJlSHRicW5scHdXNVQzWWlZcng4V0lYRUt6RFEzakp4UGEzd0dEUGRPLzB2Nlp0VU5OWjBZZzE0QVRManR4WURMZStqTVo5NU1CRGthQ3lvY0NYU1BxQlUrdlVxbW1xYktTb1NhVC9CNGhtV0xwbFhVQW1YdXh6RHhOSTBZYVo5YkIyYlp3aGhsVXdCN3I0UTNPdUc2R0FWbERGdSs5Q2t4cE1HNjBiNW9jcUNIbDdxanBZeGkvTUJmMU5MNlVncUxpT2pxbDRKYjlSQjRNM293NUFRRzVrTUpCSWJXRjNKODZrQVlFc3NwSEtXMFcweEFQUkh3SVBKSzgwdEFJdkRLMW5hYlluSGtWTTlSVTltN2Q1NnM2YWFTOHRodk5LaUthNUotLTFTbmRaRkllY3NmeDV3ZDR1eFZTaXc9PQ%3D%3D--f06080389dc8c9620b6903c904d08d8fe7802221; has_recent_activity=1; logged_in=no
+Content-Type: application/x-www-form-urlencoded

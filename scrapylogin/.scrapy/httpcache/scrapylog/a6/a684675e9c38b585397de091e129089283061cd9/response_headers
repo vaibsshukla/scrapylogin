@@ -1,0 +1,19 @@
+Status: 200 OK
+Expect-Ct: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+X-Request-Id: b99762ab-0c8e-42dd-930e-0e349561c1cd
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; connect-src 'self' uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com wss://live.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: github.githubassets.com assets-cdn.github.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; manifest-src 'self'; media-src 'none'; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: has_recent_activity=1; path=/; expires=Fri, 04 Jan 2019 12:42:29 -0000
+Set-Cookie: _octo=GH1.1.1892786389.1546602149; domain=.github.com; path=/; expires=Mon, 04 Jan 2021 11:42:29 -0000
+Set-Cookie: _gh_sess=UmhiVTlsUW14UkN4SmxDU1FtZmxqcGlBdkgzMUREU0JMWjFUYW1neDRtYktHQlpwSGpjcUZRNksyWk5wd3RQVG1sRzVLc01aeDMzTHNyWmh1WGIwY09ESjhqOGp6N2pmalozRDJYS3ZUY09WeitnNGpXWlJESDJXWmxCMjc3RmRqY0JRdTZuZzhtbjJaTkdiZ3NLK2NvaTYxcWR3RFFvQTBoL2ZLV1NUR284SDY5NkRFMElGNUFJV0FienQ3K0p3LS1YZ2lMbDRSd3N0UFVoNVk5YitUblVRPT0%3D--9041e18a70aa626a08efa0b01966e6f692c4b404; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: X-PJAX
+Server: GitHub.com
+X-Github-Request-Id: BAB1:0C8A:5E1CE6:B53CDE:5C2F46A5
+Cache-Control: no-cache
+Date: Fri, 04 Jan 2019 11:42:29 GMT
+X-Frame-Options: deny
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Type: text/html; charset=utf-8

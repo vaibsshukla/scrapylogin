@@ -1,0 +1,19 @@
+Status: 200 OK
+Expect-Ct: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+X-Request-Id: 7e75378f-d104-46df-a072-082063ca4f73
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; connect-src 'self' uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com wss://live.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: github.githubassets.com assets-cdn.github.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; manifest-src 'self'; media-src 'none'; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: has_recent_activity=1; path=/; expires=Fri, 04 Jan 2019 12:42:29 -0000
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Tue, 04 Jan 2039 11:42:29 -0000; secure; HttpOnly
+Set-Cookie: _gh_sess=c0gwcTl0QlVsWmJPMWpsVDVXWFlWSCthS0RJSVJlSHRicW5scHdXNVQzWWlZcng4V0lYRUt6RFEzakp4UGEzd0dEUGRPLzB2Nlp0VU5OWjBZZzE0QVRManR4WURMZStqTVo5NU1CRGthQ3lvY0NYU1BxQlUrdlVxbW1xYktTb1NhVC9CNGhtV0xwbFhVQW1YdXh6RHhOSTBZYVo5YkIyYlp3aGhsVXdCN3I0UTNPdUc2R0FWbERGdSs5Q2t4cE1HNjBiNW9jcUNIbDdxanBZeGkvTUJmMU5MNlVncUxpT2pxbDRKYjlSQjRNM293NUFRRzVrTUpCSWJXRjNKODZrQVlFc3NwSEtXMFcweEFQUkh3SVBKSzgwdEFJdkRLMW5hYlluSGtWTTlSVTltN2Q1NnM2YWFTOHRodk5LaUthNUotLTFTbmRaRkllY3NmeDV3ZDR1eFZTaXc9PQ%3D%3D--f06080389dc8c9620b6903c904d08d8fe7802221; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: X-PJAX
+Server: GitHub.com
+X-Github-Request-Id: BAB1:0C8A:5E1CD7:B53CD0:5C2F46A4
+Cache-Control: no-cache, no-store
+Date: Fri, 04 Jan 2019 11:42:29 GMT
+X-Frame-Options: deny
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,24 @@
+Expect-Ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src *; connect-src 'self' static.licdn.com media.licdn.com static-exp1.licdn.com static-exp2.licdn.com media-exp1.licdn.com media-exp2.licdn.com https://media-src.linkedin.com/media/ wss://www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com; object-src 'none'; media-src blob: *; frame-ancestors 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=lg
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: lang=v=2&lang=en-us; Path=/; Domain=linkedin.com
+Set-Cookie: JSESSIONID="ajax:5420313594227053743"; Path=/; Domain=.www.linkedin.com
+Set-Cookie: bcookie="v=2&92904b9e-af87-4228-8d18-050c9360014b"; domain=.linkedin.com; Path=/; Expires=Mon, 04-Jan-2021 01:33:38 GMT
+Set-Cookie: bscookie="v=1&20190104135606752c9ad7-52eb-4375-85f5-53fa821da3d9AQEU4k-uyf9-GzxW1ZXAeYYAnpYvk26Q"; domain=.www.linkedin.com; Path=/; Secure; Expires=Mon, 04-Jan-2021 01:33:38 GMT; HttpOnly
+Set-Cookie: lidc="b=SGST03:g=3:u=1:i=1546610166:t=1546696566:s=AQFSyotWB1_YYztHvlBmW3TBMGqgZFhr"; Expires=Sat, 05 Jan 2019 13:56:06 GMT; domain=.linkedin.com; Path=/
+Strict-Transport-Security: max-age=2592000
+X-Li-Pop: prod-tmu1
+X-Li-Uuid: zXvVncCpdhVgmdU9eysAAA==
+Server: Play
+X-Li-Fabric: prod-lsg1
+X-Fs-Uuid: cd7bd59dc0a976156099d53d7b2b0000
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Date: Fri, 04 Jan 2019 13:56:06 GMT
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Li-Proto: http/1.1
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT

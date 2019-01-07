@@ -1,0 +1,21 @@
+Expect-Ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'none'; base-uri 'self'; form-action 'self'; connect-src 'self' wss: static.licdn.com s.c.lnkd.licdn.com static-fstl.licdn.com static-src.linkedin.com dms.licdn.com static-exp1.licdn.com static-exp2.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com static-lcdn.licdn.com s.c.lcdn.licdn.com media.licdn.com m.c.lnkd.licdn.com platform.linkedin.com https://www.linkedin.com cdn.lynda.com media-exp2.licdn.com media-exp1.licdn.com video-uploads-prod.s3.amazonaws.com video-uploads-prod.s3-accelerate.amazonaws.com https://media-src.linkedin.com/media/ https://dpm.demdex.net/id https://lnkd.demdex.net/event; img-src data: blob: *; font-src data: *; frame-src 'self' *.doubleclick.net www.slideshare.net radar.cedexis.com platform.linkedin.com media-exp1.licdn.com media-exp2.licdn.com m.c.exp1.licdn.com m.c.exp2.licdn.com media-lcdn.licdn.com m.c.lcdn.licdn.com cdn.embedly.com https://www.linkedin.com lichat.azurewebsites.net www.youtube.com www.facebook.com player.vimeo.com embed.ted.com livestream.com embed.gettyimages.com w.soundcloud.com www.lynda.com media.licdn.com; child-src 'self' *.doubleclick.net www.slideshare.net radar.cedexis.com; style-src 'unsafe-inline' static.licdn.com s.c.lnkd.licdn.com static-fstl.licdn.com static-src.linkedin.com static-exp1.licdn.com static-exp2.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com static-lcdn.licdn.com s.c.lcdn.licdn.com https://www.linkedin.com/sc/ https://www.linkedin.com/scds/ https://qprod.www.linkedin.com/sc/; script-src 'report-sample' 'sha256-6gLjSWp3GRKZCUFvRX5aGHtECD1wVRgJOJp7r0ZQjV0=' 'unsafe-inline' static.licdn.com s.c.lnkd.licdn.com static-fstl.licdn.com static-src.linkedin.com https://www.linkedin.com/voyager/service-worker-push.js https://platform.linkedin.com/js/analytics.js static-exp1.licdn.com static-exp2.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com static-lcdn.licdn.com s.c.lcdn.licdn.com https://www.linkedin.com/sc/ https://www.linkedin.com/scds/ https://qprod.www.linkedin.com/sc/ https://www.linkedin.com/sw.js https://www.linkedin.com/voyager/abp-detection.js https://platform.linkedin.com/litms/utag/ https://platform.linkedin.com/litms/vendor/; media-src blob: *; manifest-src 'self'; frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: lang=v=2&lang=en-us; Path=/; Domain=linkedin.com
+Set-Cookie: lidc="b=SB44:g=91:u=308:i=1546600913:t=1546609939:s=AQGQdJMsNsmMTfnO5lgBcwfM6BN5JsNF"; Expires=Fri, 04 Jan 2019 13:52:19 GMT; domain=.linkedin.com; Path=/
+Strict-Transport-Security: max-age=2592000
+X-Li-Pop: prod-tmu1
+X-Li-Uuid: p+IaOlahdhVgM16beisAAA==
+Server: Play
+X-Li-Fabric: prod-lsg1
+X-Fs-Uuid: a7e21a3a56a1761560335e9b7a2b0000
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Date: Fri, 04 Jan 2019 11:21:54 GMT
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Li-Proto: http/1.1
+Content-Type: text/html
+Expires: Thu, 01 Jan 1970 00:00:00 GMT

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.5.1 (+https://scrapy.org)
+Referer: https://www.linkedin.com/uas/login
+Cookie: li_at=AQEDARVI6gwFjZLfAAABaBiZGmQAAAFoPKWeZFEAjOUiV4apT6ePc27jfpDdGJftEelFrzgxYsyDWbZH5R183Le_yNNRdGnsj2ETFM8nol1oJ6JvYY0kFNXam4nBkY09Nrz3fm-7KRdva9xpFX39p_jO; bscookie="v=1&201901041121520a1c9fa0-57d0-4a3b-83a1-460bf28f852dAQFmVP_EHdF9hRHjjEQgoaHXofv3V_Zx"; sl=v=1&mTL_s; JSESSIONID="ajax:4297562580291557233"; bcookie="v=2&dd8a8d94-de8b-40b0-84b3-3404ad0bc18d"; liap=true; lidc="b=SGST03:g=3:u=1:i=1546600912:t=1546687312:s=AQGelKyt_peiK1XPw0YUYCq_3xj9UMtz"

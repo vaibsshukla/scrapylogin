@@ -1,0 +1,30 @@
+Expect-Ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src *; connect-src 'self' static.licdn.com media.licdn.com static-exp1.licdn.com static-exp2.licdn.com media-exp1.licdn.com media-exp2.licdn.com https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com m.c.exp1.licdn.com m.c.exp2.licdn.com wss://*.linkedin.com dms.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: lang=v=2&lang=en-us; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=linkedin.com
+Set-Cookie: leo_auth_token=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: li_cachetoken=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: mst=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: sl=v=1&mTL_s; Max-Age=7776000; Expires=Thu, 04 Apr 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: s_leo_auth_token=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: li_at=AQEDARVI6gwFjZLfAAABaBiZGmQAAAFoPKWeZFEAjOUiV4apT6ePc27jfpDdGJftEelFrzgxYsyDWbZH5R183Le_yNNRdGnsj2ETFM8nol1oJ6JvYY0kFNXam4nBkY09Nrz3fm-7KRdva9xpFX39p_jO; Max-Age=31536000; Expires=Sat, 04 Jan 2020 11:21:53 GMT; Path=/; Domain=.www.linkedin.com; Secure; HTTPOnly; HttpOnly
+Set-Cookie: liap=true; Max-Age=7776000; Expires=Thu, 04 Apr 2019 11:21:53 GMT; Path=/; Domain=linkedin.com
+Set-Cookie: chp_token=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: wwepo=delete me; Max-Age=0; Expires=Fri, 04 Jan 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com
+Set-Cookie: JSESSIONID="ajax:4297562580291557233"; Max-Age=7776000; Expires=Thu, 04 Apr 2019 11:21:53 GMT; Path=/; Domain=.www.linkedin.com; Secure
+Strict-Transport-Security: max-age=2592000
+X-Li-Pop: prod-tmu1
+X-Li-Uuid: qmmDGlahdhXgrheWeisAAA==
+Server: Play
+X-Li-Fabric: prod-lsg1
+X-Fs-Uuid: aa69831a56a17615e0ae17967a2b0000
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Date: Fri, 04 Jan 2019 11:21:53 GMT
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Li-Proto: http/1.1
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: https://www.linkedin.com/feed/
